@@ -33,3 +33,6 @@ Styled with Tailwind CSS and integrates with a public API for demo tasks.
 - hooks- Custom hooks to reuse logic (like fetching data or localStorage syncing)
 - layout-Layout components (wrapping UI like Navbar/Footer)
  - context-Theme context provider
+
+## Deployment link
+https://plp-mern-stack-development.github.io/week-3-react-js-assignment-MahlatsePhetla/
